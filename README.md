@@ -2,11 +2,10 @@
 
 ### References
 
-- [Javascript interview questions](https://github.com/sudheerj/javascript-interview-questions)
-- [Javascript questions](https://github.com/lydiahallie/javascript-questions)
-- [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [The Modern JavaScript Tutorial](https://javascript.info/)
--
+- [Typescript interview questions](https://github.com/aershov24/typescript-interview-questions)
+- [Typescript questions](https://www.geeksforgeeks.org/typescript-interview-questions/)
+- [Frontend questions](https://github.com/Saran-pariyar/100_Days_Of_Frontend_Interview_Questions)
+- [Typescript Tutorial](https://www.typescriptlang.org/)
 
 ### Lí thuyết
 
